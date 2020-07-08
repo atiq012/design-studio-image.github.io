@@ -24,10 +24,6 @@
     background: #333333;
 }
 
-.header{
-
-}
-
 .header-left{
     float: left;
     width: 400px;
@@ -96,10 +92,6 @@
     color: #232121;
 }
 
-.content{
-
-}
-
 .services{
     background: #00adef;
     width: 210px;
@@ -144,4 +136,102 @@
 
 .readmore a:hover{
     color: #22b4ee;
+}
+
+.main-bottom{
+    margin: 28px;
+    border-top: 2px dotted #adafb9;
+    border-bottom: 2px dotted #adafb9;
+}
+
+.client-section{
+    float: left;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    width: 480px;
+    border-right: 2px dotted #adafb9;
+}
+
+.client-section h2{
+    padding-bottom: 25px;
+}
+
+.client-image{
+    float: left;
+    width: 60px;
+    height: 40px;
+    margin-right: 50px;
+}
+
+.client-image img{
+    height: 95px;
+}
+
+.client-description{
+    float: left;
+    width: 370px;
+    margin-bottom: 45px;
+}
+
+.client-description p{
+    color: #999999;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.client-description p a{
+    color: #00adef;
+    text-decoration: none;
+}
+
+.client-name{
+    font-family: monospace;
+    font-weight: bold;
+    font-size: 19px;
+    margin-top: 7px;
+    padding-bottom: 5px;
+}
+.project-section{
+    float: right;
+    width: 400px;
+}
+
+.project-section h2{
+    margin-top: 40px;
+    padding-bottom: 20px;
+}
+
+.project-section h3{
+    padding-bottom: 12px;
+    color: #999;
+    font-size: 20px;
+    line-height: 25px;
+}
+
+.project-section img{
+    margin-bottom: 10px;
+    width: 25rem;
+}
+
+.project-section p{
+    color: #9999A7;
+    font-size: 17px;
+    text-align: justify;
+    line-height: 20px;
+    padding-bottom: 15px;
+}
+
+.project-section p a{
+    color: #00adef;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+.footer-section{
+    margin-left: 30px;
+}
+
+.footer-section p{
+    color: #999999;
+    padding-bottom: 30px;
 }
