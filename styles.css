@@ -37,7 +37,7 @@
     color: #fff;
     font-size: 40px;
     line-height: 70px;
-    padding-left: 55px;
+    padding-left: 30px;
 }
 
 .header-right{
@@ -56,4 +56,42 @@
 
 .header-right a:hover, #active{
     color: #00ADEF;
+}
+
+.main-section{
+    background: #fff;
+}
+
+.slogan-section{
+    margin: 30px;
+    border-bottom: 2px dotted #c3c3c0;
+    padding-bottom: 20px;
+}
+
+.slogan-section .and-sign{
+    color: #00ADEF;
+}
+
+.slogan-section h2{
+    font-size: 50px;
+    line-height: 60px;
+    color: #000;
+}
+
+.slogan-section h3{
+    font-size: 40px;
+    line-height: 40px;
+    color: #C3C3C0;
+}
+
+.description{
+    margin: 30px;
+    border-bottom: 2px dotted #c3c3c0;
+    padding-bottom: 30px;
+}
+
+.description p{
+    font-size: 25px;
+    line-height: 30px;
+    color: #232121;
 }
